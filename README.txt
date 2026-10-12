@@ -1,4 +1,4 @@
-IRONPEAK TRADING ENTERPRISE CC — WEBSITE V6 (launch-ready front-end)
+IRONPEAK TRADING ENTERPRISE CC — WEBSITE V7 (launch-ready front-end)
 Registration number: CC20260645
 
 Included:
@@ -21,6 +21,10 @@ DONE:
 9. Added 3 new services: Constitution & Business Registration, School Books
 11. Added 2 more services: Safety Boots Manufacturing, Construction — service cards
 12. Client logo added to header, footer, hero panel and browser favicon
+13. Vision-section placeholder images swapped for real Namibia photography
+    (Namib Desert dunes, Etosha elephant, Windhoek skyline — sourced from
+14. Logo icon updated to client-supplied artwork (favicon, header, footer, hero).
+    Wikimedia Commons, Creative Commons licensed, credited below).
     (embedded directly in index.html as base64 — no extra image files needed).
     + quote form dropdown updated.
    Printing, Cars & Machinery Oils — service cards + quote form dropdown updated.
@@ -47,3 +51,12 @@ STILL OUT OF SCOPE (by client instruction / needs future budget & backend):
 The registration number shown on the site is the number supplied by the client.
 Registration status/good standing should be verified through BIPA before using
 it as a public compliance claim.
+
+IMAGE CREDITS (Vision section, Creative Commons licensed via Wikimedia Commons):
+- Dead Vlei, Sossusvlei dunes — Poco a poco, CC BY-SA 3.0
+- Windhoek skyline — Jburlinson / Wikimedia Commons, CC BY-SA 2.5
+- Elephant, Etosha National Park — Wikimedia Commons, GFDL/CC BY-SA
+Full attribution/license details available on each image's Wikimedia Commons
+file page if required for compliance.
+
+LOGO: Updated to the client-supplied IRONPEAK icon (favicon, header, footer, hero panel).
