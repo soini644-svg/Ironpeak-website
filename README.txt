@@ -1,4 +1,4 @@
-IRONPEAK TRADING ENTERPRISE CC — WEBSITE V7 (launch-ready front-end)
+IRONPEAK TRADING ENTERPRISE CC — WEBSITE V7.2 (launch-ready front-end)
 Registration number: CC20260645
 
 Included:
@@ -60,3 +60,17 @@ Full attribution/license details available on each image's Wikimedia Commons
 file page if required for compliance.
 
 LOGO: Updated to the client-supplied IRONPEAK icon (favicon, header, footer, hero panel).
+
+NOTE (V7.1): Vision-section and About images are now inline Namibia-themed artwork
+(no external image links), so they always display. To use real photos instead, send
+them to be embedded, or upload them to the repo and reference them in index.html.
+The Wikimedia credits listed above no longer apply to this version.
+
+PHOTOS (V7.2): Client-supplied Unsplash photos are embedded in index.html:
+- Hero: elephants (Etosha) | Vision: boot, whiteboard, Windhoek street, Namib dunes
+- Services 09-13 now show photo cards: newspaper, books, oils, safety boot, construction
+- NOT used: 3 iStock preview images (watermarked, unlicensed). Buy a licence or replace.
+- Note: the oils photo shows third-party brand labels (STP, Lucas, MAG1...). Consider
+  using your own product photo to avoid implying you stock those brands.
+- The tan boot photo is a casual boot, not a certified safety boot - swap for your own.
+- The "Client Portal" card and About section still use built-in artwork.
