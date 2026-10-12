@@ -1,4 +1,4 @@
-IRONPEAK TRADING ENTERPRISE CC — WEBSITE V5 (launch-ready front-end)
+IRONPEAK TRADING ENTERPRISE CC — WEBSITE V6 (launch-ready front-end)
 Registration number: CC20260645
 
 Included:
@@ -20,6 +20,8 @@ DONE:
 8. Online payment integration intentionally NOT added (client instruction).
 9. Added 3 new services: Constitution & Business Registration, School Books
 11. Added 2 more services: Safety Boots Manufacturing, Construction — service cards
+12. Client logo added to header, footer, hero panel and browser favicon
+    (embedded directly in index.html as base64 — no extra image files needed).
     + quote form dropdown updated.
    Printing, Cars & Machinery Oils — service cards + quote form dropdown updated.
 10. Favicon and social-share (Open Graph) tags added.
