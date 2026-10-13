@@ -32,3 +32,5 @@ footer{background:#e8e8e3}.foot{color:#4a555c}.foot .brand{color:#172027}.foot a
 @media(max-width:850px){.leader{grid-template-columns:1fr;gap:34px}.leader-photo img{max-width:340px}}
 
 .panel a,.quote a,.note a{color:#172027;font-weight:600}
+
+.leader-card .ceo-name{display:inline-block;margin-top:4px;font:800 20px Montserrat,sans-serif;color:#172027}

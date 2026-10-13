@@ -84,4 +84,4 @@ V8 CHANGES (reviewer feedback + CEO portrait):
 - New Leadership section with the Chief Executive portrait (original photo, cropped only).
 STILL TO DO: replace the Gmail address with a domain email (e.g. info@yourdomain.com.na) in
 index.html (header/contact/leadership/footer) and script.js once the domain email exists.
-Add the CEO's name under "Position" if wanted.
+CEO name added: Mr. S. Amupolo.
