@@ -34,3 +34,25 @@ footer{background:#e8e8e3}.foot{color:#4a555c}.foot .brand{color:#172027}.foot a
 .panel a,.quote a,.note a{color:#172027;font-weight:600}
 
 .leader-card .ceo-name{display:inline-block;margin-top:4px;font:800 20px Montserrat,sans-serif;color:#172027}
+
+/* service detail pop-up */
+.services article.photo{cursor:pointer;transition:transform .15s,box-shadow .15s}
+.services article.photo:hover,.services article.photo:focus-visible{transform:translateY(-3px);box-shadow:0 14px 34px #17202722;outline:none}
+.services article.photo:focus-visible{box-shadow:0 0 0 3px #b18a26}
+.services .more{color:#172027;font-weight:700}
+body.no-scroll{overflow:hidden}
+.modal{position:fixed;inset:0;background:#172027b8;display:flex;align-items:center;justify-content:center;padding:20px;z-index:100}
+.modal[hidden]{display:none}
+.modal-card{background:#fff;color:#172027;border-radius:16px;max-width:780px;width:100%;max-height:92vh;overflow:auto;position:relative;box-shadow:0 30px 80px #0005}
+.m-media svg,.m-media img{width:100%;height:220px;object-fit:cover;display:block}
+.modal-x{position:absolute;top:12px;right:12px;width:38px;height:38px;border-radius:50%;border:0;background:#fffffff2;color:#172027;font-size:26px;line-height:1;cursor:pointer;box-shadow:0 2px 10px #0003}
+.m-body{padding:26px 32px 32px}
+.m-body h3{font:800 30px Montserrat,sans-serif;letter-spacing:-.5px;margin:6px 0 10px;color:#172027}
+.m-intro{font-size:16px;color:#4a555c;line-height:1.6;margin:0 0 22px}
+.m-body h4{font:700 13px Inter,sans-serif;letter-spacing:1.2px;text-transform:uppercase;color:#9b7310;margin:0 0 10px}
+.m-cols{display:grid;grid-template-columns:1.2fr 1fr;gap:28px;margin-bottom:22px}
+.m-body ul,.m-body ol{margin:0 0 4px;padding-left:20px;color:#172027;font-size:14.5px;line-height:1.6}
+.m-body li{margin:5px 0}
+.m-note{margin:18px 0 0;padding:12px 14px;background:#f6efe0;border-left:3px solid #b18a26;border-radius:6px;font-size:13px;color:#4a555c}
+.m-actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:24px}
+@media(max-width:600px){.m-cols{grid-template-columns:1fr;gap:18px}.m-body{padding:22px 20px 26px}.m-body h3{font-size:24px}.m-media svg,.m-media img{height:170px}.m-actions .button{width:100%;text-align:center}}

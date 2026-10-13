@@ -1,4 +1,4 @@
-IRONPEAK TRADING ENTERPRISE CC — WEBSITE V8 (feedback update)
+IRONPEAK TRADING ENTERPRISE CC — WEBSITE V9 (service detail pop-ups)
 Registration number: CC20260645
 
 Included:
@@ -85,3 +85,8 @@ V8 CHANGES (reviewer feedback + CEO portrait):
 STILL TO DO: replace the Gmail address with a domain email (e.g. info@yourdomain.com.na) in
 index.html (header/contact/leadership/footer) and script.js once the domain email exists.
 CEO name added: Mr. S. Amupolo.
+
+V9: Every service card (01-14) now opens a pop-up with details: what's included, ideal for,
+how it works, and buttons to request a quote (pre-selects the service in the form), call
+or WhatsApp. The text for each service is in script.js (SERVICES) - edit it to match
+exactly what the business offers. No new files; same 4 files as before.
