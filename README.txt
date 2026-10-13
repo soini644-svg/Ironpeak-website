@@ -1,4 +1,4 @@
-IRONPEAK TRADING ENTERPRISE CC — WEBSITE V7.2 (launch-ready front-end)
+IRONPEAK TRADING ENTERPRISE CC — WEBSITE V8 (feedback update)
 Registration number: CC20260645
 
 Included:
@@ -74,3 +74,14 @@ PHOTOS (V7.2): Client-supplied Unsplash photos are embedded in index.html:
   using your own product photo to avoid implying you stock those brands.
 - The tan boot photo is a casual boot, not a certified safety boot - swap for your own.
 - The "Client Portal" card and About section still use built-in artwork.
+
+V8 CHANGES (reviewer feedback + CEO portrait):
+- Public Relations and Corporate Communications are now separate services.
+- Every service has its own graphic/photo; services renumbered 01-14 in two groups
+  (Digital/Media/Communications 01-09; Trading/Manufacturing/Construction 10-14).
+- Registration number CC20260645 shown in a top bar, hero, About, Leadership, Contact, footer.
+- Consistent light theme: dark text on light surfaces throughout (packages, portal, footer, hero caption).
+- New Leadership section with the Chief Executive portrait (edited: cropped, lighting balanced, background softened).
+STILL TO DO: replace the Gmail address with a domain email (e.g. info@yourdomain.com.na) in
+index.html (header/contact/leadership/footer) and script.js once the domain email exists.
+Add the CEO's name under "Position" if wanted.
