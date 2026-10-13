@@ -81,7 +81,7 @@ V8 CHANGES (reviewer feedback + CEO portrait):
   (Digital/Media/Communications 01-09; Trading/Manufacturing/Construction 10-14).
 - Registration number CC20260645 shown in a top bar, hero, About, Leadership, Contact, footer.
 - Consistent light theme: dark text on light surfaces throughout (packages, portal, footer, hero caption).
-- New Leadership section with the Chief Executive portrait (edited: cropped, lighting balanced, background softened).
+- New Leadership section with the Chief Executive portrait (original photo, cropped only).
 STILL TO DO: replace the Gmail address with a domain email (e.g. info@yourdomain.com.na) in
 index.html (header/contact/leadership/footer) and script.js once the domain email exists.
 Add the CEO's name under "Position" if wanted.
