@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "image": "welcome.jpg",
+    "text": "Welcome to IRONPEAK TRADING ENTERPRISE CC 👋\n\nWe provide practical digital, creative, media and business solutions for organisations, entrepreneurs and growing brands across Namibia.\n\nTrade • Create • Connect • Grow.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "NamibianBusiness",
+      "SmallBusinessNamibia"
+    ]
+  },
+  {
+    "id": 2,
+    "image": "digital-marketing.jpg",
+    "text": "Is your business visible where your customers spend their time? 📈\n\nOur digital marketing service covers social media management, content planning, paid campaigns and monthly performance reports.\n\nTell us your goals and we'll prepare a quotation.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "DigitalMarketing",
+      "SocialMediaMarketing"
+    ]
+  },
+  {
+    "id": 3,
+    "image": "cars-machinery-oils.jpg",
+    "text": "Keep your vehicles and machinery running smoothly 🚗⚙️\n\nWe supply engine oils, gear and transmission oils, hydraulic oils and greases for cars, trucks and industrial machinery.\n\nAsk us for a quote.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "EngineOil",
+      "Lubricants",
+      "Machinery"
+    ]
+  },
+  {
+    "id": 4,
+    "image": "photography-video.jpg",
+    "text": "Professional photos and video that show your business at its best 📸\n\nCorporate portraits, product photography, event coverage and promotional video — edited and delivered ready to use.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "Photography",
+      "VideoProduction"
+    ]
+  },
+  {
+    "id": 5,
+    "image": "school-books-printing.jpg",
+    "text": "Printing school books and learning materials 📚\n\nTextbooks, workbooks and worksheets printed in the quantities you need. Schools and education organisations: request a quotation today.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "SchoolBooks",
+      "Printing",
+      "Education"
+    ]
+  },
+  {
+    "id": 6,
+    "image": "drone-services.jpg",
+    "text": "See your project from above 🚁\n\nAerial photography and video, site overview images and event coverage through safe, planned drone flights (subject to Namibian aviation requirements and landowner permission).",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "DroneServices",
+      "AerialPhotography"
+    ]
+  },
+  {
+    "id": 7,
+    "image": "constitution-business-registration.jpg",
+    "text": "Starting a business? Get your documents right from day one 📝\n\nWe help with Close Corporation constitution drafting and registration support.\n\nAdministrative document support — not legal advice.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "BusinessRegistration",
+      "CloseCorporation",
+      "Entrepreneur"
+    ]
+  },
+  {
+    "id": 8,
+    "image": "website-development.jpg",
+    "text": "Your website is your shopfront — open 24/7 💻\n\nWe build fast, mobile-friendly business websites with contact forms and WhatsApp buttons so customers can reach you easily.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "WebsiteDevelopment",
+      "WebDesign"
+    ]
+  },
+  {
+    "id": 9,
+    "image": "safety-boots-manufacturing.jpg",
+    "text": "Safety footwear for demanding workplaces 🥾\n\nWe manufacture and supply industrial safety boots, including bulk orders for companies. Specifications are agreed per order.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "SafetyBoots",
+      "WorkSafety",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": 10,
+    "image": "public-relations.jpg",
+    "text": "Your reputation is one of your most valuable assets 🎙️\n\nOur public relations service covers media relations, press releases, reputation management and stakeholder engagement.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "PublicRelations",
+      "PR"
+    ]
+  },
+  {
+    "id": 11,
+    "image": "packages.jpg",
+    "text": "Social media packages for your business 📱\n\nStarter N$2,500/month • Professional N$5,000/month • Corporate from N$8,000/month.\n\nIndicative pricing — a final quotation follows once we understand your needs.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "SocialMedia",
+      "BusinessPackages"
+    ]
+  },
+  {
+    "id": 12,
+    "image": "construction.jpg",
+    "text": "Building homes and businesses 🏗️\n\nNew buildings, extensions, renovations and site works for residential and commercial projects (subject to the required plans and approvals).\n\nRequest a quotation.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "Construction",
+      "Building"
+    ]
+  },
+  {
+    "id": 13,
+    "image": "corporate-communications.jpg",
+    "text": "Clear messaging builds trust ✍️\n\nCompany profiles, speeches, newsletters, proposals and reports — written and edited so your message lands.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "CorporateCommunications",
+      "Writing"
+    ]
+  },
+  {
+    "id": 14,
+    "image": "graphic-design.jpg",
+    "text": "Make your brand look as professional as your service 🎨\n\nLogos, flyers, posters, brochures, social-media graphics and banners designed for your business.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "GraphicDesign",
+      "Branding"
+    ]
+  },
+  {
+    "id": 15,
+    "image": "event-media.jpg",
+    "text": "Your event deserves full coverage 🎥\n\nPhotography, video highlights, live social-media updates and post-event reporting — from the first guest to the final report.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "EventMedia",
+      "Events"
+    ]
+  },
+  {
+    "id": 16,
+    "image": "training-skills.jpg",
+    "text": "Build skills your team can use straight away 🎓\n\nPractical training in social media, content creation, digital communication and business technology — for individuals and teams.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "Training",
+      "Skills"
+    ]
+  },
+  {
+    "id": 17,
+    "image": "ceo.jpg",
+    "text": "Meet our Chief Executive, Mr. S. Amupolo 👔\n\nLeading IRONPEAK TRADING ENTERPRISE CC across digital services, trading, manufacturing and construction.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "Leadership",
+      "CEO"
+    ]
+  },
+  {
+    "id": 18,
+    "image": "digital-marketing.jpg",
+    "text": "Marketing tip 💡 Consistency beats intensity.\n\nA simple weekly content plan that you actually follow will grow your audience faster than posting a lot for a week and then disappearing.\n\nNeed help planning? We can do it for you.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "MarketingTips",
+      "ContentPlanning"
+    ]
+  },
+  {
+    "id": 19,
+    "image": "photography-video.jpg",
+    "text": "Why good visuals matter 📷\n\nPeople judge a business in seconds. Clear, well-lit photos and short videos build trust and make your products and services easier to understand.\n\nLet's capture yours.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "Photography",
+      "Branding"
+    ]
+  },
+  {
+    "id": 20,
+    "image": "cars-machinery-oils.jpg",
+    "text": "Maintenance tip 🔧 Always use the oil grade recommended in your vehicle or machine's manual.\n\nNot sure which product suits your vehicle or equipment? Tell us what you drive or operate and we'll advise.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "EngineOil",
+      "VehicleMaintenance"
+    ]
+  },
+  {
+    "id": 21,
+    "image": "website-development.jpg",
+    "text": "Do customers find you online? 🔎\n\nA clear website with your services, contact details and a quick enquiry form turns visitors into customers — even while you sleep.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "WebsiteDevelopment",
+      "OnlinePresence"
+    ]
+  },
+  {
+    "id": 22,
+    "image": "constitution-business-registration.jpg",
+    "text": "Already running a business? Keep your records up to date ✅\n\nWe can help prepare constitution and supporting business documents and guide you on what is required.\n\nAdministrative support — not legal advice.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "BusinessRegistration",
+      "SmallBusiness"
+    ]
+  },
+  {
+    "id": 23,
+    "image": "drone-services.jpg",
+    "text": "Aerial footage makes projects, properties and events stand out 🌍\n\nTell us the location and what you need to capture and we'll plan the flight.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "Drone",
+      "AerialVideo"
+    ]
+  },
+  {
+    "id": 24,
+    "image": "school-books-printing.jpg",
+    "text": "Planning for the next school term? 📖\n\nOrder early so your textbooks and learning materials are ready on time. Send us your files and specifications for a quotation.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "SchoolBooks",
+      "Printing"
+    ]
+  },
+  {
+    "id": 25,
+    "image": "public-relations.jpg",
+    "text": "PR and communications are related, but not the same 🤝\n\nPublic relations manages your reputation and your relationship with the media and the public. Corporate communications is about clear messaging to staff, customers and partners.\n\nWe offer both.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "PublicRelations",
+      "Communications"
+    ]
+  },
+  {
+    "id": 26,
+    "image": "safety-boots-manufacturing.jpg",
+    "text": "Workplace safety starts from the ground up 🦺\n\nTell us the requirements for your site or team and we'll prepare a quotation for safety boots made to the specification you need.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "SafetyBoots",
+      "PPE"
+    ]
+  },
+  {
+    "id": 27,
+    "image": "business.jpg",
+    "text": "IRONPEAK TRADING ENTERPRISE CC 🇳🇦\n\nA Namibian Close Corporation — Reg. No. CC20260645.\nPO Box 265, Oshakati, Namibia.\n\nDigital services • Media • Trading • Manufacturing • Construction.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "NamibianBusiness",
+      "ProudlyNamibian"
+    ]
+  },
+  {
+    "id": 28,
+    "image": "construction.jpg",
+    "text": "Planning to build or renovate? 🧱\n\nShare your requirements with us and we'll arrange a site visit and prepare a plan and quotation.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "Construction",
+      "Renovation"
+    ]
+  },
+  {
+    "id": 29,
+    "image": "event-media.jpg",
+    "text": "Hosting a launch, conference or function? 🎤\n\nLet us capture it — photos, video highlights and live social-media coverage so your event keeps working long after the day.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "EventMedia",
+      "EventPhotography"
+    ]
+  },
+  {
+    "id": 30,
+    "image": "graphic-design.jpg",
+    "text": "Need flyers, posters or social media graphics? 🖌️\n\nSend us your brief and we'll design material that looks professional and consistent across print and online.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "GraphicDesign",
+      "Marketing"
+    ]
+  },
+  {
+    "id": 31,
+    "image": "corporate-communications.jpg",
+    "text": "Preparing a proposal, profile or tender? 📄\n\nWe help with writing, editing and proofreading so your documents are clear and professional.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "CorporateCommunications",
+      "Proposals"
+    ]
+  },
+  {
+    "id": 32,
+    "image": "training-skills.jpg",
+    "text": "Want your team to use social media and digital tools with confidence? 💪\n\nWe design workshops around what your business needs. Ask us about training.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "Training",
+      "DigitalSkills"
+    ]
+  },
+  {
+    "id": 33,
+    "image": "contact.jpg",
+    "text": "Ready to start your project? 🚀\n\nCall or WhatsApp us, or send an enquiry through our website — tell us what you want to build and we'll prepare a quotation.",
+    "tags": [
+      "IRONPEAK",
+      "Namibia",
+      "Oshakati",
+      "GetAQuote",
+      "NamibianBusiness"
+    ]
+  }
+]
